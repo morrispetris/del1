@@ -4,7 +4,7 @@ A small project by morrispetris.
 
 ## About
 
-This repository (del1) contains source code and related files for a project maintained by morrispetris. This README provides a high-level overview, quick start instructions, and contribution notes.
+This repository (del1) currently contains project documentation. This README provides a high-level overview, quick start instructions, and contribution notes.
 
 ## Getting started
 
